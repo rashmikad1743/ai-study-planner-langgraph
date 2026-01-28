@@ -42,20 +42,6 @@ AI-STUDY-PLANNER/
 
 
 
-## 🧠 How This Project Works
-
-text
-User Input (Syllabus + Time)
-        ↓
-Analyze Syllabus (Agent Node)
-        ↓
-Distribute Study Days (Agent Node)
-        ↓
-Generate Topic Explanations (Groq LLM)
-        ↓
-Display Plan (Streamlit UI)
-
----
 
 ## 📬 Contact
 
@@ -66,6 +52,7 @@ If you’d like to discuss this project, collaborate, or provide feedback, feel 
 - 📧 **Email:** *rashmikad1743@gmail.com*  
 
 ---
+
 
 
 
