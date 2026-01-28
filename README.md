@@ -38,7 +38,7 @@ An **AI-powered study planner** that creates **personalized, day-wise study sche
 ## 📂 Project Structure
 
 AI-STUDY-PLANNER/
-<img width="332" height="269" alt="image" src="https://github.com/user-attachments/assets/ea04cc68-0d95-4be5-87de-943a9c4567aa" />
+<img width="333" height="243" alt="image" src="https://github.com/user-attachments/assets/4b92e62c-d475-45c5-829f-7f30ed8e6482" />
 
 
 
@@ -66,6 +66,7 @@ If you’d like to discuss this project, collaborate, or provide feedback, feel 
 - 📧 **Email:** *rashmikad1743@gmail.com*  
 
 ---
+
 
 
 
