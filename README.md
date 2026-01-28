@@ -37,7 +37,7 @@ An **AI-powered study planner** that creates **personalized, day-wise study sche
 
 ## 📂 Project Structure
 
-```text
+text
 AI-STUDY-PLANNER/
 │
 ├── __pycache__/        # Python cache files
@@ -77,6 +77,7 @@ If you’d like to discuss this project, collaborate, or provide feedback, feel 
 - 📧 **Email:** *rashmikad1743@gmail.com*  
 
 ---
+
 
 
 
